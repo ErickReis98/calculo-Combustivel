@@ -18,13 +18,13 @@ public class calculo {
 		Veiculo hb20 = new Veiculo("HB20", 6.9, 8.2, 10, 11.7, C);
 
 		polo.desempenho();
-		System.out.println("-----------------------");
+		System.out.println("---------------------");
 
 		focus.desempenho();
-		System.out.println("-----------------------");
+		System.out.println("---------------------");
 
 		civic.desempenho();
-		System.out.println("-----------------------");
+		System.out.println("---------------------");
 
 		hb20.desempenho();
 
